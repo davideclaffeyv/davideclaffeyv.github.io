@@ -21,18 +21,18 @@
 title: David E Claffey
 email: dclaffey@gatech.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Maker.. blah blah blah
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+  Engineering Portfolio for David Claffey
+baseurl: "/portfolio" # the subpath of your site, e.g. /blog
+url: "https://davideclaffeyv.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  davideclaffeyv
 
 # Build settings
 #theme: minima
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-include-cache
-
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
@@ -52,3 +52,22 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+author:
+  name   : "David Claffey"
+  avatar : ""
+  bio    : >
+    An engineer, maker, and Undergrad candidate in the Georgia Tech Woodruff School of Mechanical Engineering.
+  location: "Cambridge, MA"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:davidclaffeyv@gmail.com"
+    - label: "Resume"
+      icon: "far fa-fw fa-file-pdf"
+      url: 
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/davideclaffeyv"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/davidclaffeyv/"
