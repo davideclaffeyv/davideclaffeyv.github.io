@@ -28,7 +28,7 @@ github_username:  davideclaffeyv
 
 # Build settings
 #theme: minima
-emote_theme: "mmistakes/minimal-mistakes@4.24.0"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
