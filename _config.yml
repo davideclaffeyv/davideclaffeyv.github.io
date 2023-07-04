@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: David Claffey
+title: David E Claffey
 email: dclaffey@gatech.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Maker.. blah blah blah
