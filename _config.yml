@@ -52,22 +52,4 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-author:
-  name   : "David Claffey"
-  avatar : ""
-  bio    : >
-    An engineer, maker, and Undergrad candidate in the Georgia Tech Woodruff School of Mechanical Engineering.
-  location: "Cambridge, MA"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:davidclaffeyv@gmail.com"
-    - label: "Resume"
-      icon: "far fa-fw fa-file-pdf"
-      url: 
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/davideclaffeyv"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/davidclaffeyv/"
+
