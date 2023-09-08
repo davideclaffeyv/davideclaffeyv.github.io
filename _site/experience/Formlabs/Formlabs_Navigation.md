@@ -1,0 +1,8 @@
+[Model Forces, Areas, and Pressures](obsidian://open?vault=Brain&file=Website%2FExperience%2FFormlabs%2FForce%20Pressure%20Area%20Models%20for%20Peel)
+[Energy Accumulation and Outer Boundary Tolerances](obsidian://open?vault=Brain&file=Website%2FExperience%2FFormlabs%2FGelling%20and%20OBO%20as%20a%20function%20of%20Layer)
+[Energy Accumulation and Mixing](obsidian://open?vault=Brain&file=Website%2FExperience%2FFormlabs%2FGelling%20and%20OBO%20as%20a%20function%20of%20Wiper%20Geometry)
+[Interlayer Film Properties](obsidian://open?vault=Brain&file=Website%2FExperience%2FFormlabs%2FInterlayer%20and%20Film%20Radii%20Dynamics)
+[Optical Artifacts and Curvature](obsidian://open?vault=Brain&file=Website%2FExperience%2FFormlabs%2FLensing%20and%20Texture%20Amplitude%20Studies)
+[Bubbling and Mixing Geometry](obsidian://open?vault=Brain&file=Website%2FExperience%2FFormlabs%2FPitting%20and%20Wiper%20Geometry)
+[Polymer Shrinkage](obsidian://open?vault=Brain&file=Website%2FExperience%2FFormlabs%2FPolymer%20Shrinkage%20Studies)
+[Printer Geometry and Airflow](obsidian://open?vault=Brain&file=Website%2FExperience%2FFormlabs%2FPrinter%20Geometry%20and%20Airflow%20Features%20with%20Peel)
