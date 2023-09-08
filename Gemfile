@@ -1,6 +1,11 @@
 source "https://rubygems.org"
 
 gem "github-pages", group: :jekyll_plugins
+gem "jekyll-include-cache", group: :jekyll_plugins
+gem "webrick"
+
+'''
+gem "github-pages", group: :jekyll_plugins
 gem "minimal-mistakes-jekyll"
 gem "jekyll-include-cache", group: :jekyll_plugins
 
@@ -29,3 +34,4 @@ gem "nokogiri" #, ">= 1.13.10"
 gem "faraday-retry", "~> 2.0"
 
 gem "webrick", "~> 1.8"
+'''

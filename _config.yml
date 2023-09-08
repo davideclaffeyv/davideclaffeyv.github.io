@@ -28,7 +28,7 @@ baseurl: "/portfolio" # the subpath of your site, e.g. "/blog"
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 # theme: "minimal-mistakes-jekyll"
 # Outputting
 permalink: /:categories/:title/
