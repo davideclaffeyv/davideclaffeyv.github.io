@@ -2,7 +2,7 @@
 title: "DART Labs Exoskeleton"
 excerpt: "Researched and developed a pipeline that fully processed kinematic data from emg to motion primitive classification. Developed XGBoost model and training framework. Additional CAD Contributions and Motor Builds."
 header:
-  teaser: /assets/images/DART/hyperparam2 - Copy.png
+  teaser: /assets/images/DART/exoDavid.png
 order: 3.1
 share: false
 toc: true
