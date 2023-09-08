@@ -24,11 +24,11 @@ minimal_mistakes_skin: contrast
 search: true
 
 url: https://davideclaffeyv.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-#baseurl: "/portfolio" # the subpath of your site, e.g. "/blog"
+baseurl: "/portfolio" # the subpath of your site, e.g. "/blog"
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 # theme: "minimal-mistakes-jekyll"
 # Outputting
 permalink: /:categories/:title/
