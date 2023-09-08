@@ -12,7 +12,7 @@ source "https://rubygems.org"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "github-pages", group: :jekyll_plugins
-gem "minimal-mistakes-jekyll"
+#gem "minimal-mistakes-jekyll"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
@@ -40,4 +40,6 @@ gem "kramdown-parser-gfm"
 # Lock `http_parser.rb` gem to `v0.6.x` on JRuby builds since newer versions of the gem
 # do not have a Java counterpart.
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
-gem "webrick", "~> 1.8"
+gem "webrick", "~> 1.8.1"
+gem "minimal-mistakes-jekyll", "~> 4.24.0"
+gem "nokogiri", "~> 1.15.4"
