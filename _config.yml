@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   David Claffey Portfolio
 # twitter_username: username
 # github_username: 
-theme: minimal-mistakes-jekyll
+# theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: contrast
 search: true
 
@@ -28,7 +28,7 @@ baseurl: "/portfolio" # the subpath of your site, e.g. "/blog"
 
 # Build settings
 markdown: kramdown
-#remote_theme: mmistakes/minimal-mistakes
+remote_theme: mmistakes/minimal-mistakes
 # theme: "minimal-mistakes-jekyll"
 # Outputting
 permalink: /:categories/:title/
