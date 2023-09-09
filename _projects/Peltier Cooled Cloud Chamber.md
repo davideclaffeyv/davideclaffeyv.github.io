@@ -9,6 +9,8 @@ toc: true
 toc_sticky: true
 ---
 
+**Fall 2023**
+
 ## What is a Cloud Chamber? 
 
 Cloud chambers were used in theoretic physics antiquity to view subatomic particles. They were originally invented by Charles Wilson in 1911 to study cloud formation. Fundamentally all that is required is a saturated vapor such as Isopropyl Alcohol that will ionize as electrically charged particles fly through. Thus, any neutral charged particles such as neutrons and Z bosons will not be visible. To achieve the saturated vapor, a chamber with Isopropyl and a temperature gradient is required. Typically, this gradient is achieved from room temp to dry ice. 
@@ -37,10 +39,16 @@ Materials
 - 1/4 x 2 x 12 in 110 copper flat bar 
 - CPU Heat Sink and Fans
 - Variable 6-30 V 150 W Buck Converters
-	- https://www.amazon.com/Converter-1-25-30V-Regulator-Constant-Charging/dp/B08HS76XG1/ref=cm_cr_arp_d_product_top?ie=UTF8
 - Acrylic Sheet
 - Iso Alcohol
 - 24 V power supply
 - LCD Screen 
 - LED (to backlight the chamber)
+
+## Initial Temperature Testing
+
+![draw]({{ site.baseurl }}/assets/images/projects/IMG_0723.jpg){: .align-center}
+Achieved 13 degree C with 3 peltier coolers run at 3 volts overcurrenting the power supply. Buck converters from a 24V 30 A supply should yield much lower temperatures. 
+
+![draw]({{ site.baseurl }}/assets/images/projects/IMG_0721.png){: .align-center}
 

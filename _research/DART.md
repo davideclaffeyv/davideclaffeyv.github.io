@@ -20,7 +20,6 @@ With OpenSim and Matlab, I refactored a legacy code base to automatically proces
 Calculating inverse dynamics is a computationally expensive process. The goal of this project was to create a data set of kinetics and kinematics for 10 sets of subject joints in order to train a model to predict such dynamics.
 
 ![]({{ site.baseurl }}/assets/images/DART/image11.png){: .align-center}
-![]({{ site.baseurl }}/assets/images/DART/image11.png){: .align-center}
 
 ## IMU Data and Channel Filtering for Model Training 
 
@@ -64,4 +63,8 @@ In addition to the software work, I also worked on some CAD projects and motor r
 
 ![]({{ site.baseurl }}/assets/images/davidPhotos/IMG_4064.HEIC){: .align-center}
 ![]({{ site.baseurl }}/assets/images/davidPhotos/IMG_4065.HEIC){: .align-center}
+
+## Publication 
+
+[Under Review]
 

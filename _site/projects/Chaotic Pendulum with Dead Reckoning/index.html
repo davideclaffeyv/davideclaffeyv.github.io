@@ -36,7 +36,7 @@
 
 
 
-  <meta property="article:published_time" content="2023-09-08T14:59:46-04:00">
+  <meta property="article:published_time" content="2023-09-09T13:38:52-04:00">
 
 
 
@@ -115,7 +115,7 @@
           
         </a>
         <ul class="visible-links"><li class="masthead__menu-item">
-              <a href="/">About</a>
+              <a href="/">Home</a>
             </li><li class="masthead__menu-item">
               <a href="/projects/">Projects</a>
             </li><li class="masthead__menu-item">
@@ -123,7 +123,7 @@
             </li><li class="masthead__menu-item">
               <a href="/experience/">Experience</a>
             </li><li class="masthead__menu-item">
-              <a href="/assets/files/resume.pdf">Resume</a>
+              <a href="/assets/files/resume_2023.pdf">Resume</a>
             </li></ul>
         
         <button class="search__toggle" type="button">
@@ -171,7 +171,7 @@
     </h3>
     
       <div class="author__bio p-note" itemprop="description">
-        <p>Hello here is bio</p>
+        <p>Engineer, Maker, Scientist, and Carbon Based Lifeform</p>
 
       </div>
     
@@ -268,7 +268,7 @@
   <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
     <meta itemprop="headline" content="Chaotic Pendulum with Dead Reckoning">
     <meta itemprop="description" content="A project designed around modular develop and study of the chaotic movement of a double, triple, or quadruple pendulum.">
-    <meta itemprop="datePublished" content="2023-09-08T14:59:46-04:00">
+    <meta itemprop="datePublished" content="2023-09-09T13:38:52-04:00">
     
 
     <div class="page__inner-wrap">
@@ -289,15 +289,34 @@
           <aside class="sidebar__right sticky">
             <nav class="toc">
               <header><h4 class="nav__title"><i class="fas fa-file-alt"></i> On this page</h4></header>
-              
+              <ul class="toc__menu"><li><a href="#introduction">Introduction</a></li><li><a href="#design">Design</a></li></ul>
 
             </nav>
           </aside>
         
-        <p><img src="/assets/images/projects/modPend.png" alt="" class="align-center" />
-<img src="/assets/images/projects/pend_gear.png" alt="" class="align-center" />
-<img src="/assets/images/projects/pendSolder.png" alt="" class="align-center" />
-<img src="/assets/images/projects/hamiltonian_sim.png" alt="" class="align-center" /></p>
+        <h2 id="introduction">Introduction</h2>
+
+<p>This project was undertaken to further explore controls and chaotic systems. A double pendulum is an example of a chaotic controls system. The goal of this project was to drive a linear rail to balance such a pendulum. This sort of project has been done with various tracking techniques for each joint. We opted for a modular design so that more linkages could be added later on to experiment with triple or quadruple linkage pendulums.</p>
+
+<p><img src="/assets/images/photos/linear.png" alt="Linear Rail" class="align-center" /></p>
+
+<h2 id="design">Design</h2>
+
+<p><img src="/assets/images/projects/modPend.png" alt="Module" class="align-center" /></p>
+
+<p>Each module consists of an IMU (Inertial Measurement Unit), ESP32 Wi-Fi module, and arduino nano. Integrating acceleration from initial velocity and position terms to calculate position is known as dead reckoning, and generally considered a poor choice for position calculation.</p>
+
+<p><img src="/assets/images/projects/pend_gear.png" alt="Pully for belt drive" class="align-center" /></p>
+
+<p>The modules would compute this position on the onboard nano, and send the position to the Arduino Mega running the linear rail.</p>
+
+<p><img src="/assets/images/projects/hamiltonian_sim.png" alt="Simple Simulation" class="align-center" /></p>
+
+<p>We developed simulation for such a system using the Hamiltonian equations of a double pendulum, and experiment with base velocity inputs.</p>
+
+<p><img src="/assets/images/projects/pendSolder.png" alt="Soldering" class="align-center" /></p>
+
+<p>Unfortunately, once assembled the project went on the back burner to some other cool projects but hopefully one day it will be revisited and tested.</p>
 
         
       </section>
@@ -309,7 +328,7 @@
 
         
 
-  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2023-09-08T14:59:46-04:00">September 8, 2023</time></p>
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2023-09-09T13:38:52-04:00">September 9, 2023</time></p>
 
       </footer>
 
@@ -322,7 +341,7 @@
 ">Previous</a>
     
     
-      <a href="/projects/High%20Speed%20RC%20Experimentation/" class="pagination--pager" title="High Speed RC Cars
+      <a href="/projects/Peltier%20Cooled%20Cloud%20Chamber/" class="pagination--pager" title="Peltier Cloud Chamber
 ">Next</a>
     
   </nav>

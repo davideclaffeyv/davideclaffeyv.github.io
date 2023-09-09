@@ -25,6 +25,8 @@ search: true
 
 url: https://davideclaffeyv.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 
+
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
@@ -64,7 +66,7 @@ author:
   name   : "David Claffey"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : >
-    Hello here is bio
+    Engineer, Maker, Scientist, and Carbon Based Lifeform
   location: "Atlanta, GA"
   links:
     - label: "Email"
