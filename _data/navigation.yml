@@ -1,11 +1,11 @@
 main:
   - title: "Home"
     url: /
-  - title: "Projects"
-    url: /projects/
-  - title: "Research"
-    url: /research/
   - title: "Experience"
     url: /experience/
+  - title: "Research"
+    url: /research/
+  - title: "Projects"
+    url: /projects/
   - title: "Resume"
     url: /assets/files/resume_2023.pdf
