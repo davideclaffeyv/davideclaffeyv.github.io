@@ -8,6 +8,6 @@ I'm David Claffey, a maker, engineer, and student at Georgia Tech. I'll be pursu
 
 Check out the various pages linked at the top to read more about my personal projects, research experience, and work terms. 
 
-![bio-photo]({{ site.baseurl }}/assets/images/me.jpg){: .align-center}
+![bio-photo]({{ site.baseurl }}/assets/images/me.JPG){: .align-center}
 
 Outside of work and study, I am an avid rock climber, soccer player, reader, coffee snob, and cook. 
