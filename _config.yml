@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 # twitter_username: username
 # github_username: 
 # theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: contrast
+minimal_mistakes_skin: dirt
 search: true
 
 url: https://davideclaffeyv.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"

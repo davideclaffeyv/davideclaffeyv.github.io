@@ -8,7 +8,7 @@ sort_by: order
 toc: true
 ---
 
-## [Formlabs Product Development Intern]()
+## [Formlabs Product Development Intern](https://formlabs.com/company/)
 
 **Janurary 2023-August 2023**
 
@@ -32,7 +32,7 @@ At Flowers Invention Studio, the largest student-run makerspace in the US, I vol
 
 At DART and EPIC labs, I've completed several projects relating to the lab's hip exoskeleton as part of human-dodging augmentation research. I developed a pipeline for torque curve generation using large kinematic data sets, OpenSim, Vicon, and Matlab. I've also created pipelines for analyzing this data, as well as using XGBoost to classify and predict motion primitives base on movement segmentation and IMU (Inertial Measurement Unit) Data.
 
-## Engineering Intern At Tosoh
+## [Engineering Intern At Tosoh](https://www.tosohamerica.com/)
 
 **May 2021-August 2021**
 

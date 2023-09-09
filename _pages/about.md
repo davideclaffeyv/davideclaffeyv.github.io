@@ -3,9 +3,10 @@ permalink: /
 title: "About"
 ---
 
-Hello! I study Mechanical Engineering, AI, and a lot in between. I love research, and participate in several really cool labs at Georgia Tech. Controls, machine learning and autonomy, metallurgical and polymer additive manufacturing, and applied physics are all fields I reguarly engage in. In my free time, I am also a metal CNC master at Flowers Invention Studio.
+### Hello
+Welcome to my website! I am a student at Georgia Tech planning to pursue graduate studies in Machine Learning and Manufacturing. I conduct research with several exciting labs at Georgia Tech and engage in personal projects exploring controls, machine learning and autonomy, metallurgical and polymer additive manufacturing, and applied physics in order to learn more about these fields. In my free time, I am a [CNC]({{ site.baseurl }}/CNC/cnc) master and Prototyping Instructor at [Flowers Invention Studio](https://inventionstudio.gatech.edu/).
 
-Check out the exciting places I've worked, projects I've completed or currently am working on, and some miscellaneous info like a list of cool books and an image gallery!
+Check out the various pages linked at the top to read more about my personal projects, research experience, and work terms. 
 
 ![bio-photo]({{ site.baseurl }}/assets/images/davidPhotos/IMG_3190.PNG){: .align-center}
 
