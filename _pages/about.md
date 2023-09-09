@@ -4,7 +4,7 @@ title: "About"
 ---
 
 ### Hello
-Welcome to my website! I am a student at Georgia Tech planning to pursue graduate studies in Machine Learning and Manufacturing. I conduct research with several exciting labs at Georgia Tech and engage in personal projects exploring controls, machine learning and autonomy, metallurgical and polymer additive manufacturing, and applied physics in order to learn more about these fields. In my free time, I am a [CNC]({{ site.baseurl }}/CNC/cnc) master and Prototyping Instructor at [Flowers Invention Studio](https://inventionstudio.gatech.edu/).
+I'm David Claffey, a student at Georgia Tech, researcher, and tinkerer. I'll be pursuing graduate studies in Machine Learning and Manufacturing in 2024, but I currently study Mechanical Engineering and Computer Science Intelligence at GT. I conduct research with several exciting labs and engage in personal projects exploring controls, machine learning and autonomy, metallurgical / polymer additive manufacturing, and applied physics in order to learn more about these fields. In my free time, I am a [CNC]({{ site.baseurl }}/CNC/cnc) master and Prototyping Instructor at [Flowers Invention Studio](https://inventionstudio.gatech.edu/).
 
 Check out the various pages linked at the top to read more about my personal projects, research experience, and work terms. 
 
