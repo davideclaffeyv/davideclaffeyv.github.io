@@ -1,6 +1,6 @@
 ---
 title: "Advanced Manufacturing Argon Flow for DED"
-excerpt: "Using OpenCV, Python, Fluid Mechanics, and Gcode integration to automate and analysis and asserting of argon flow rates for the Optomec DED Additive Metal CNC"
+excerpt: "Using OpenCV, Python, Fluid Mechanics, and DAQ to automate the monitoring and control of argon flow rates for the Optomec DED Additive CNC"
 header:
   teaser: /assets/images/AMPF/widesideCamera.png
 order: 3.1
