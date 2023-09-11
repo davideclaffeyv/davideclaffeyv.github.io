@@ -2,7 +2,7 @@
 title: "Peltier Cloud Chamber"
 excerpt: "Who doesn't want to view subatomic particles flying through our atmosphere? A Cloud chamber is a relatively old-school device for subatomic particle viewing."
 header:
-  teaser: /assets/images/finCloud.jpg
+  teaser: /assets/images/projects/thinCloud.jpg
 order: 3.1
 share: false
 toc: true
@@ -52,3 +52,12 @@ Achieved 13 degree C with 3 peltier coolers run at 3 volts overcurrenting the po
 
 ![draw]({{ site.baseurl }}/assets/images/projects/IMG_0721.png){: .align-center}
 
+Testing a single peltier cooler with 100 PWM fans and 9V battery (not current limiting)
+![9v7c]({{ site.baseurl }}/assets/images/projects/9V7CThermal.jpg){: .align-center}
+
+LCD Screen for voltage/current info for buck converters and tachometry of the fans. 
+![Fan]({{ site.baseurl }}/assets/images/projects/RPM.jpg){: .align-center}
+
+Initial Cloud Formation
+
+![icloud]({{ site.baseurl }}/assets/images/projects/initialCloud.jpg){: .align-center}
