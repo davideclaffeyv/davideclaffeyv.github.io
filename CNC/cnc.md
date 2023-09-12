@@ -7,6 +7,9 @@ toc: true
 toc_sticky: true
 author_profile: true
 gallery:
+- url: /assets/images/CNC/croppedFred.gif
+  image_path: /assets/images/CNC/croppedFred.gif
+  title: "Fred"
 - url: /assets/images/CNC/104A23B9-5A45-4BB1-99D6-9C050EE2787C.png
   image_path: /assets/images/CNC/104A23B9-5A45-4BB1-99D6-9C050EE2787C.png
   title: "104A23B9-5A45-4BB1-99D6-9C050EE2787C"
