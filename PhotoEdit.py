@@ -60,9 +60,20 @@ if __name__ == "__main__":
 import os
 import PIL
 from PIL import Image
+from pillow_heif import register_heif_opener
 
 # Function to crop images to a specified aspect ratio
 def crop_images_to_aspect_ratio(folder_path, output_folder, target_aspect_ratio):
+    
+    register_heif_opener()
+    
+    directory = r"C:\Users\david\Dropbox (Personal)\PC\Documents\git_page\davideclaffeyv\davideclaffeyv.github.io\CNC\CNC Photo processing"
+    files = [f for f in os.listdir(directory) if f.endswith('.HEIC') or f.endswith('.heif')]
+    
+    # Convert each file to JPEG
+    for filename in files:
+        image = Image.open(os.path.join(directory, filename))
+        image.convert('RGB').save(os.path.join(directory, os.path.splitext(filename)[0] + '.jpg'))
     for filename in os.listdir(folder_path):
         if filename.endswith(('.jpg', '.jpeg', '.png', '.gif')):
             image = Image.open(os.path.join(folder_path, filename))
@@ -89,8 +100,8 @@ def crop_images_to_aspect_ratio(folder_path, output_folder, target_aspect_ratio)
             image.save(os.path.join(output_folder, new_filename), 'PNG')
 
 if __name__ == "__main__":
-    input_folder = r"C:\Users\david\Dropbox (Personal)\PC\Desktop\CNC"
-    output_folder = r"C:\Users\david\Dropbox (Personal)\PC\Desktop\CNC"
+    input_folder = r"C:\Users\david\Dropbox (Personal)\PC\Documents\git_page\davideclaffeyv\davideclaffeyv.github.io\CNC\CNC Photo processing"
+    output_folder = r"C:\Users\david\Dropbox (Personal)\PC\Documents\git_page\davideclaffeyv\davideclaffeyv.github.io\CNC\CNC Photo processed"
     target_aspect_ratio = 4.0/3.0  # Specify your desired aspect ratio here
 
     if not os.path.exists(output_folder):
@@ -121,7 +132,7 @@ def generate_combined_yaml_file(folder_path, output_file, url_prefix):
         yaml_file.write('---\n')  # End of the YAML document
 
 if __name__ == "__main__":
-    input_folder = r"C:\Users\david\Dropbox (Personal)\PC\Desktop\CNC"
+    input_folder = r"C:\Users\david\Dropbox (Personal)\PC\Documents\git_page\davideclaffeyv\davideclaffeyv.github.io\CNC\CNC Photo processed"
     output_file = r"C:\Users\david\Dropbox (Personal)\PC\Desktop\CNC\photo.yaml"
     url_prefix = "/assets/images/CNC/"
 

@@ -7,5 +7,7 @@ main:
     url: /research/
   - title: "Projects"
     url: /projects/
+  - title: "CNC"
+    url: /CNC/cnc
   - title: "Resume"
     url: /assets/files/resume_2023.pdf
