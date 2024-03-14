@@ -10,4 +10,4 @@ Check out the various pages linked at the top to read more about my personal pro
 
 ![bio-photo]({{ site.baseurl }}/assets/images/me.JPG){: .align-center}
 
-Outside of work and study, I am an avid rock climber, soccer player, reader, coffee snob, and cook. 
+Outside of work and study, I am an avid rock climber, soccer player, reader, and beginner luthier. 
