@@ -8,6 +8,12 @@ sort_by: order
 toc: true
 ---
 
+## [Tormach Software Engineering Intern [COMING SOON]](https://tormach.com/)
+
+**June 2024-August 2024**
+
+I will be interning with the incredible software development team this summer!
+
 ## [Formlabs Product Development Intern](https://formlabs.com/company/)
 
 **Janurary 2023-August 2023**
