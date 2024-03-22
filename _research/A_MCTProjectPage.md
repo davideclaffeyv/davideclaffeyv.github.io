@@ -50,7 +50,7 @@ Given some imaged 3D volume and a 2D detector image through time (rotation / sin
 
 ## Conclusion
 
-Developing the software to take these measurements, calculate gradients, characterize the magnetic field, construct the transformation matrix, and reconstruct scanned images is the algorithm I am working on!
+With the BeamTeam at the Advanced Manufacturing Pilot Facility, I am developing novel reconstruction algorithms for non-linear inversely converging fields, building software to construct high order transformation matrices from measurement plane to scan volume for these fields, and proofing out the mathematics of the system as well as testing the physical device being built by the project lead.
 
 <img src="{{ site.baseurl }}/assets/images/MCT/prettyorder.png" alt="mag" style="width: 75%; display: block; margin: auto;">
 (What DALL-E thinks a 5th order rank 3 tensor looks like)
