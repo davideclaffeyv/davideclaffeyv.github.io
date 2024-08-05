@@ -8,7 +8,7 @@ sort_by: order
 toc: true
 ---
 
-## [Tormach Software Engineering Intern [COMING SOON]](https://tormach.com/)
+## [Tormach Software Engineering Intern](https://tormach.com/)
 
 **June 2024-August 2024**
 
