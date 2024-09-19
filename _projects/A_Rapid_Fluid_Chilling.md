@@ -41,8 +41,6 @@ Vortex Tubes were first accidently discovered by French Physics student Ranque, 
 
 We designed a 3D printable vortx tube for our Form4s, and tested with 90 psi shop air.
 
-![Vortex Tube]({{ site.baseurl }}/assets/images/Coffee/VortexTube.png){: .align-center style="width: 75%;"}
-
 ![Vortex Test]({{ site.baseurl }}/assets/images/Coffee/vTest.png){: .align-center style="width: 75%;"}
 
 We achieved -3 C on the cold end, and 30C on the hot end from 20C inlet air. Some initial tests showed relatively promising results: ~500 W of heat transfer from 200C water. The cold air from the tube was directed to the bottom of the vestibule to induce turbulence and further chill the water. We are currently redesigning the tube based on some Vortex Tube Geometry Optimization white papers.
