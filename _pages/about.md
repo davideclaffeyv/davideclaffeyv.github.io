@@ -9,6 +9,6 @@ I'm David Claffey, a maker, engineer, and student at Georgia Tech. I currently s
 
 Check out the various pages linked at the top to read more about my personal projects, research experience, and work terms.
 
-![bio-photo]({{ site.baseurl }}/assets/images/me.JPG){: .align-center style="width: 70%;"}
+![bio-photo]({{ site.baseurl }}/assets/images/me_wide.JPG){: .align-center style="width: 100%;"}
 
 In my free time, I read a lot of sci fi, play soccer, lift weights, snowboard (when I can find snow), rock climb, and try sports for the first time such as Brazilian Jiu Jitsu and Squash! I am also currently working on a couple startups... more coming soon!
