@@ -64,7 +64,7 @@ plugins:
 
 author:
   name   : "David Claffey"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/me_grey.jpg"
   bio    : >
     Engineer, Maker, and Scientist passionate about ML, Manufacturing, and Robotics. 
   location: "Atlanta, GA"
