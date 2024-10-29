@@ -1,11 +1,13 @@
 source "https://rubygems.org"
 
 gem "github-pages", group: :jekyll_plugins
-gem "minimal-mistakes-jekyll"
+gem "jekyll-include-cache", group: :jekyll_plugins
+gem "jekyll", "~> 3.7"
+#gem "minimal-mistakes-jekyll"
 # gem "jekyll-include-cache", group: :jekyll_plugins
 
 # gem "tzinfo-data"
-# gem "wdm", "~> 0.1.0" if Gem.win_platform?
+gem "wdm", "~> 0.1.0" if Gem.win_platform?
 # gem "nokogiri" #, ">= 1.13.10"
 
 # # If you have any plugins, put them here!
